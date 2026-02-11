@@ -1,8 +1,18 @@
+# -------------------------------
+# Strings in Python - Chapter 6
+# -------------------------------
+
+"""
+1. A string is an immutable sequence of characters.
+2. Strings are ordered (index starts from 0).
+3. Strings support indexing and slicing.
+4. Strings are immutable → cannot be modified after creation.
+"""
+
 chai_type = "Ginger Chai"
 customer_name = "Priya"
 
 print(f"Customer {customer_name} ordered {chai_type}")
-
 
 # -------------------------------
 # Indexing and Slicing in Python
